@@ -6,6 +6,15 @@ bitstamp:
   content:|
       <p>Buy and sell bitcoins with other users through an online marketplace.</p>
   coins: [btc]
+  
+coinspot:
+  label: CoinSpot
+  icon: https://www.coinspot.com.au/public/img/favicon.png
+  countries: [au, nz]
+  url: https://www.coinspot.com.au
+  content:|
+      <p>Buy Bitcoin, Dogecoin, Litecoin & more directly for AUD</p>
+  coins: [btc, ltc, doge, max, ppc, wdc, lot, qrk, moon, ftc, xpm]
 
 cryptsy:
   icon: https://www.cryptsy.com/favicon.ico
